@@ -5,8 +5,8 @@
 
 ---
 
-> ⚠️ **PROGRAMME CLOSED**
-> This bounty programme has been officially closed. All research tracks are being absorbed into the **Syn Research Laboratory** internal pipeline. No new submissions are accepted. Thank you to everyone who showed interest.
+> ⚠️ **BOUNTY PROGRAMME ENDED — RESEARCH CONTINUES INTERNALLY**
+> The open bounty programme has ended. **No submissions are accepted and no payouts will be made.** The three research tracks below remain active as internal R&D of **Syn Research Laboratory**; the issues are kept open as a public showcase of ongoing work. Pull requests from outside contributors will be closed without review.
 >
 > For collaboration inquiries, contact: research@syn.ai
 
@@ -16,17 +16,17 @@
 
 The **Sovereign Synesis Bounty Programme** was an open, permissionless research initiative governed by the NGP 3.0 decentralised knowledge protocol. Three high-priority scientific engineering tasks were funded at the intersection of longevity epigenomics, low-energy nuclear reaction (LENR) physics, and robotic laboratory automation.
 
-**This programme is now closed. The research continues within Syn Research Laboratory.**
+**The bounty programme has ended. The research continues within Syn Research Laboratory.**
 
 ---
 
-## Bounties — Status
+## Research Tracks — Status
 
-| # | Title | Status |
-|---|-------|--------|
-| 1 | ChIP-seq & Methylation PACE Pipeline | 🔴 Closed |
-| 2 | Karabut–FCQC Physical Simulator | 🔴 Closed |
-| 3 | DryLab4 & SiLA 2 Robotic Bridge | 🔴 Closed |
+| # | Title | Bounty | Research |
+|---|-------|--------|----------|
+| 1 | ChIP-seq & Methylation PACE Pipeline | 🔴 Ended | 🟢 In progress (internal) |
+| 2 | Karabut–FCQC Physical Simulator | 🔴 Ended | 🟢 In progress (internal) |
+| 3 | DryLab4 & SiLA 2 Robotic Bridge | 🔴 Ended | 🟢 In progress (internal) |
 
 ---
 
